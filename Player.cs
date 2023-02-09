@@ -1,6 +1,10 @@
 using UnityEngine;
 public class Player
 {
+	void DatVT222()
+	{
+		//ahihi
+	}
 	void VuTM()
 	{
 	}
