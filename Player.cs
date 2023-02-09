@@ -2,7 +2,6 @@ using UnityEngine;
 public class Player
 {
     //file o main
-    // dang lam viec o branch 3
-    // anh A chinh sua 
-    // Develop3 da duoc thay doi
+    // da duoc chinh sua khi tao branch Develop va checkout no
+    // chinh sua o branch Change_Develop, nhiem vu la merge branch voi branch Develop
 }
